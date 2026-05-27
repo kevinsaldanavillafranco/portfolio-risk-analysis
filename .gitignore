@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Sensitive Data - never upload to repo
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
